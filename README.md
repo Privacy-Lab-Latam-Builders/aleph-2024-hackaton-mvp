@@ -92,20 +92,24 @@ You can review Zama's bounties to ensure the tracks are correct.
     For those searching, here is how the bounties are specified, including the judging criteria and general information:
   [Read the Hackers Guide](https://github.com/zama-ai/bounty-program/issues/133)  
 
-- **Templates:**  
+- #### **Templates:**  
   2 most important templates:  
   - [Hardhat Template](https://github.com/zama-ai/fhevm-hardhat-template)  
   - [React Template](https://github.com/zama-ai/fhevm-react-template)  
 
-- **Documentation:**  
+- ##### **Documentation:**  
   - **ZAMA Docs:**  
     [View the Documentation](https://docs.zama.ai/fhevm)  
   - **ChatGPT Trained on ZAMA Docs:**  
     [Access ChatGPT](https://chatgpt.com/g/g-67518aee3c708191b9f08d077a7d6fa1-zama-solidity-developer)  
 
-- **Tutorials:**  
+- #### **Tutorials:**  
   [See All Tutorials](https://docs.zama.ai/fhevm/tutorials/see-all-tutorials)  
 
-**Workshop:**
+#### **Workshop:**
 -  Confidential Smart Contracts on Ethereum (queda guardado la grabación) - by Zama: ➡️https://www.youtube.com/@Crecimientoar
 
+#### **Dapps**  
+- [Repositorio](https://github.com/zama-ai/dapps)  
+- [Contracts](https://github.com/zama-ai/dapps/tree/main/contracts/contracts)  
+- [Test](https://github.com/zama-ai/dapps/tree/main/contracts/test/sample)
