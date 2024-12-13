@@ -47,6 +47,8 @@ Step 6: Deploy the smart contract and enable bidder interaction.
 
 Step 7: Implement the auditability layer using the immutable nature of the smart contract and ZKP verification.
 
+Step 8: Build and run test suit.
+
 ## MVP Implementation
 
 Step 1: Set up the dApp framework (frontend & backend).
@@ -55,11 +57,11 @@ Step 2: Integrate with ZAMA FHEvm to handle encryption and smart contract genera
 
 Step 3: Develop bid submission logic with wallet integration and ZKP generation.
 
-Step 5: Build the evaluation logic in the smart contract for the proposed MVP sample.
+Step 4: Build the evaluation logic in the smart contract for the proposed MVP sample.
 
-Step 6: Deploy the smart contract and enable bidder interaction.
+Step 5: Deploy the smart contract and enable bidder interaction.
 
-Step 7: Build and run test suit.
+Step 6: Build and run test suit.
 
 
 --------------------------------------------------------------------------------------------
