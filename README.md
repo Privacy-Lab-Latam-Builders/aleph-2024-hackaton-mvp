@@ -58,4 +58,54 @@ Step 3: Develop bid submission logic with wallet integration and ZKP generation.
 Step 5: Build the evaluation logic in the smart contract for the proposed MVP sample.
 
 Step 6: Deploy the smart contract and enable bidder interaction.
+
 Step 7: Build and run test suit.
+
+
+--------------------------------------------------------------------------------------------
+
+### Zama Resources  
+
+- **Bouty**  
+  For those searching, here is how the bounties are specified, including the judging criteria and general information:  
+  [Zama FHE Track Hackers Guide](https://github.com/zama-ai/bounty-program/issues/133)  
+#### **Instructions:**  
+You can review Zama's bounties to ensure the tracks are correct.  
+
+- **Zama Bounties:**  
+  [Review the Bounties](https://dorahacks.io/bounty/871)  
+
+- **Guide for Submitting the Project:**  
+  Only one submission is necessary, even if you read the Hack Manual.  
+
+- **Project Submission Guide on Dora Hack:**  
+  [Submission Guide](https://dorahacks.io/hackathon/aleph-de-verano/submission-guide)  
+
+- **General Guide:**  
+  - **Hack Manual:**  
+    [Read the Hack Manual](https://gregarious-eyebrow-d99.notion.site/Hacker-s-Manual-1490eb7f25e780fabb55dcff32644fb2)  
+  - **Hackathon Guide Video:**  
+    [Watch the Video Guide](https://www.youtube.com/watch?v=gsDflFi7g8k)  
+
+#### **General Resources:**  
+
+- **Zama FHE Track Hackers Guide:**  
+  [Read the Hackers Guide](https://github.com/zama-ai/bounty-program/issues/133)  
+
+- **Templates:**  
+  2 most important templates:  
+  - [Hardhat Template](https://github.com/zama-ai/fhevm-hardhat-template)  
+  - [React Template](https://github.com/zama-ai/fhevm-react-template)  
+
+- **Documentation:**  
+  - **ZAMA Docs:**  
+    [View the Documentation](https://docs.zama.ai/fhevm)  
+  - **ChatGPT Trained on ZAMA Docs:**  
+    [Access ChatGPT](https://chatgpt.com/g/g-67518aee3c708191b9f08d077a7d6fa1-zama-solidity-developer)  
+
+- **Tutorials:**  
+  [See All Tutorials](https://docs.zama.ai/fhevm/tutorials/see-all-tutorials)  
+
+**Workshop:**
+-  Confidential Smart Contracts on Ethereum (queda guardado la grabación) - by Zama: ➡️https://www.youtube.com/@Crecimientoar
+
