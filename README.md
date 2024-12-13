@@ -97,6 +97,9 @@ You can review Zama's bounties to ensure the tracks are correct.
   - [Hardhat Template](https://github.com/zama-ai/fhevm-hardhat-template)  
   - [React Template](https://github.com/zama-ai/fhevm-react-template)  
 
+- #### **fhEVM-backend**
+[Repositorio](https://github.com/zama-ai/fhevm-backend)
+
 - ##### **Documentation:**  
   - **ZAMA Docs:**  
     [View the Documentation](https://docs.zama.ai/fhevm)  
