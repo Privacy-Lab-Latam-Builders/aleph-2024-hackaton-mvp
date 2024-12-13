@@ -67,10 +67,7 @@ Step 6: Build and run test suit.
 --------------------------------------------------------------------------------------------
 
 ### Zama Resources  
-
-- **Bouty**  
-  For those searching, here is how the bounties are specified, including the judging criteria and general information:  
-  [Zama FHE Track Hackers Guide](https://github.com/zama-ai/bounty-program/issues/133)  
+ 
 #### **Instructions:**  
 You can review Zama's bounties to ensure the tracks are correct.  
 
@@ -91,7 +88,8 @@ You can review Zama's bounties to ensure the tracks are correct.
 
 #### **General Resources:**  
 
-- **Zama FHE Track Hackers Guide:**  
+- **Zama FHE Track Hackers Guide:**
+    For those searching, here is how the bounties are specified, including the judging criteria and general information:
   [Read the Hackers Guide](https://github.com/zama-ai/bounty-program/issues/133)  
 
 - **Templates:**  
