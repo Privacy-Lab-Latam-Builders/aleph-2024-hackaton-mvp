@@ -55,7 +55,7 @@ Step 1: Set up the dApp framework (frontend & backend).
 
 Step 2: Integrate with ZAMA FHEvm to handle encryption and smart contract generation.
 
-Step 3: Develop bid submission logic with wallet integration and ZKP generation.
+Step 3: Develop bid submission logic with wallet integration.
 
 Step 4: Build the evaluation logic in the smart contract for the proposed MVP sample.
 
